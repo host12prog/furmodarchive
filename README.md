@@ -5,4 +5,4 @@ The Furnace Module Archive is an archive of user-submitted modules made with the
 - The module should be the default format that Furnace uses (.fur)
 - If your module only uses one chip, but uses multiple of that one chip, it should be categorized under the same category that it would be categorized as if it only used 1 (if the module uses 2x AY-3-8910, then it should be categorized as AY)
 ## Categorization
-TODO
+Categorized by standalone chips and systems that have 2 or more chips.
